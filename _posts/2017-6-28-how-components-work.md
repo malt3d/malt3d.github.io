@@ -356,5 +356,7 @@ more about these topics in the future.
 
 All these information are implemented and is publicly available at the [`malt_core`][malt_core] github repository. 
 
+Also, note most of the example codes are, sometimes overly, simplified and are quite different in the actual implementation.
+
 [malt_transform]:https://github.com/malt3d/malt_basic/blob/master/include/malt_basic/components/transform.hpp#L21
 [malt_core]:https://github.com/malt3d/malt_core
